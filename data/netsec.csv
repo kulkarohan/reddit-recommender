@@ -1,0 +1,1000 @@
+post_id,title
+3hr9f0,I am John McAfee AMA!
+5vq9lr,Announcing the first SHA1 collision
+26pz9b,TrueCrypt development has ended 05/28/14
+71ie1o,How I hacked hundreds of companies through their helpdesk
+5y1pag,Vault 7 Megathread - Technical Analysis & Commentary of the CIA Hacking Tools Leak
+897pxq,"No, Panera Bread Doesn’t Take Security Seriously"
+7jjj1g,Adware company threatens to sue malware researcher for finding similarities to malware
+4kdobg,Reverse Engineering A Mysterious UDP Stream in My Hotel
+4fsu3t,"How I Hacked Facebook, and Found Someone's Backdoor Script"
+2we1ae,Lenovo confirms installing a MITM cert and proxy to inject adware on new laptops
+70tmv3,CCleanup: A Vast Number of Machines at Risk
+87q73s,I’ve tested seventy VPN providers and 16 of them leaks users’ IPs via WebRTC (23%)
+4utvyz,How I made LastPass give me all your passwords
+7m46zj,How I Got Paid $0 From the Uber Security Bug Bounty [x-post from /programming]
+8qsmkq,Unlocking a smart padlock using MD5... and that's it
+3x8fsk,"Instagram's Million Dollar Bug? Threats, Lies, and Intimidation"
+67k9m9,"In order to learn about password security, I've organized over 5 Billion Real Leaked passwords into order of most probable - here's the GitHub Repo [Fixed Link]"
+5un71q,Penetration Testing Tools Cheat Sheet
+7ecina,Intel audits their management engine and surprises fucking nobody
+7gcq2w,"Why ""blank"" Gets You Root on macOS"
+763zr5,"Equifax, TransUnion websites push fake Flash player in malvertising campaign"
+1f3bt1,17 years old student publicly discloses a Paypal.com XSS 0day after being rejected from the Paypay bounty program
+76onkk,The KRACK attack info will be available here after 5am PST
+3ykf1j,"AVG auto-installs ""Web TuneUp"" Chrome extension, vulnerable to XSS and history exposure, affects 9M users"
+63st58,How I found a command injection vulnerability in my TV set while in bed (and how I exploited it using nc)
+5whsdb,Google Goes Public with Unpatched Microsoft Edge and IE Vulnerability
+8t4xrl,FileZilla malware
+2pwqhp,Scans of North Korean IP Space
+78nbmu,Code release: Defeating Google's reCaptcha with over 85% accuracy
+40i06f,I put together a list of all the Security Conferences from 2015 that have their talks on YouTube. Enjoy.
+7odfjw,Why Raspberry Pi isn't vulnerable to Spectre or Meltdown
+36s24z,Hacking Starbucks to get unlimited coffee
+5ag423,Windows has a bug and Google just let everyone know about it
+6awrkp,"Microsoft releases WannaCrypt protection for out-of-support products Windows XP, Windows 8, & Windows Server 2003:"
+6atfkl,WanaCrypt0r ransomware hits it big just before the weekend
+bs07rj,Why Reverse Tabnabbing Matters (an Example on Reddit)
+7z9w2q,"I've Just Launched ""Pwned Passwords"" V2 With Half a Billion Passwords for Download"
+53npbv,"RCE exploit found in Metasploit itself, delighting irony lovers everywhere."
+ctloyw,Researcher banned from Valve's bug bounty program publishes 2nd Steam Local Privilege Escalation 0-day
+3tylvs,Superfish 2.0: Dangerous Certificate on Dell Laptops breaks encrypted HTTPS Connections
+4jkt2n,How I broke a mobile banking application to gain unrestricted access to several Billion Dollars worth of Deposits.
+7p7p43,Microsoft disables Windows Update for systems that don't have Spectre/Meltdown compliant antivirus
+6aiguf,How my car insurance exposed my position
+6hm3g3,How I Stole Your Siacoin
+2qu2er,"Phil Zimmerman (PGP), Ladar Levison (Lavabit), & Team release Secure Email Protocol DIME - DIME is to SMTP as SSH is to Telnet (Full specs, sourcecode, etc.)"
+13664q,Skype vulnerability allowing hijacking of any account if you know just the email address.
+1bl0fp,ISP Advertisement Injections Happening in Texas
+7nya2h,Meltdown and Spectre (CPU bugs)
+36whbs,US Govt proposal to classify Hacking Tools as Weapons of War w/ Export Regulations.
+22gaar,Heartbleed - attack allows for stealing server memory over TLS/SSL
+a7wegg,"Amazon sent 1,700 Alexa voice files to the wrong customer, revealing private conversations."
+6ynty3,"Chaos Computer Club finds fundamental security problems in ""PC-Wahl'-software which is used for general elections"
+7l449h,SQL Injection Cheat Sheet
+4u86a4,"How we broke PHP, hacked Pornhub and earned 20.000$ Bug Bounties"
+408usg,Nvidia GPUs can break Chrome's incognito mode
+1vryus,"We are Offensive Security. We do Kali Linux, Exploit-DB, Metasploit Unleashed, (used to do) BackTrack - and we teach classes. Ask us anything!"
+7o2gwq,Stealing passwords via Meltdown vulnerability in real-time.
+83ymj0,"Release 2.0 of Top 2 Billion Probable Passwords, Probability Sorted - GitHub Repo"
+66q3oo,"Security researcher finds evidence of Bose Connect App metadata collection. Including device information, music being listened to, and phone details."
+5x2a01,"Ok Google, Give Me All Your Internal DNS Information!"
+6pjjv4,Kali Linux Revealed - Mastering The Penetration Testing Distribution
+6mftj8,Taking Control of All .io Domains With a Targeted Registration
+4db5rd,Domino's: Pizza and Payments
+aaw5tr,CenturyLink 911 outage was caused by a single network card sending bad packets
+5ll7ng,Truffle Hog: A tool that Searches Entire Commit History in Git Repositories for High Entropy Strings to Find Secrets Accidentally Committed to Version Control
+8vpljp,"""Stylish"" browser extension steals all your internet history"
+6i6qqi,The RNC Files: Inside the Largest US Voter Data Leak
+5yfhge,"How I found a $5,000 Google Maps XSS (by fiddling with Protobuf)"
+6bx8kv,Wannakey: wcry in-memory key recovery for Windows XP
+6lfkec,How to defend your websites with ZIP bombs
+7mdz6y,Missing NMAP plugin released: vulnerability detection and exploit suggestion. #sorryNessus
+6b2o5z,WannaCry: Detailed Technical Analysis
+akvlkw,iPhone bug lets you hear the audio of the person you are calling before they pick up
+72j9fn,Remote WiFi exploit for iPhone7 has been made publicly available
+638l76,A WiFi camera dildo with fixed PSK and command injection
+5o3wxi,Stealing passwords from McDonald's users
+1u4xss,Snapchat Phone Number Database Leaked - 4.6 million users affected
+4hdmib,Can’t Hack a Hacker: Reverse Engineering a Discovered ATM Skimmer
+32m0g4,"What the Ridiculous Fuck, D-Link?!"
+3mlvvp,"How I hacked my IP camera, and found this backdoor account"
+7t4bn5,"How to Hack a Turned-off Computer, or Running Unsigned Code in Intel ME"
+7eykti,SWORD dropbox: A $15 OpenWRT based DIY disposable pen-test tool.
+4ceuak,Watch Paint Dry: How I got a game on the Steam Store without anyone from Valve ever looking at it.
+31zxov,Hidden backdoor API to root privileges in Apple OS X
+85ih09,Firefox Master Password System Has Been Poorly Secured for the Past 9 Years
+ayp7lb,3 million vehicles can be unlocked remotely via trivially discovered web API vulnerability
+93ra0e,Reddit had a security incident. Here's what you need to know.
+64po0z,PINs and passwords can be stolen just by watching the way a phone tilts
+4y4opz,Black Hat 2016 videos are now being posted
+7ilqgu,HP keylogger
+6znbzp,The IoT Attack Vector “BlueBorne” Exposes Almost Every Connected Device
+3vb3w4,Let's Encrypt: Entering Public Beta
+57lkon,a single byte write opened a root execution exploit on ChromeOS
+dirnf7,I recently setup a RDP honeypot and it didn’t disappoint. The first actor that logged in disabled or broke AV/logging/Task Manager/ etc. via a bat file. Then they dropped two RDP brute forcing tools and a GUI for Massscan. See the full write-up below.
+aafigq,"EU will fund 14 bug bounties on OSS starting January. Including 7zip, Notepad++, Putty, KeePass, Drupal, Kafka, glibc"
+7c704k,A penetration tester’s guide to sub-domain enumeration
+4r077w,How I Cracked a Keylogger and Ended Up in Someone's Inbox
+6r5gaf,"Microsoft didn’t sandbox Windows Defender, so I did"
+6l0xz4,How I found a bug in Intel Skylake processors
+5vu52h,Cloudflare Reverse Proxies are Dumping Uninitialized Memory - project-zero (Cloud Bleed)
+52rfn8,How to access TMobile’s national LTE data network for free using a proxy server.
+58xinl,Paypal 2FA Bypass
+5jdjeu,Hacking in-flight entertainment systems
+1vxzp8,The U.S. Crackdown on Hackers Is Our New War on Drugs
+9xxurx,Taking Down an Insider Threat: story of a failed pentest
+78e1cb,Let’s Enhance ! How we found @rogerkver’s $1000 wallet obfuscated private key.
+1pm66y,"Meet “badBIOS,” the mysterious Mac and PC malware that jumps airgaps"
+2ribdz,Secure Secure Shell
+4vn8k0,"How to steal $2,999.99 in less than 2 minutes with Venmo and Siri"
+6soz3s,$10k Host header (Google Bug Bounty)
+5xli3d,"Hi! I'm bunnie, author of the ""The Hardware Hacker"", published by No Starch Press. Ask me anything!"
+2l61k2,"Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels"
+agy333,The curious case of the Raspberry Pi in the network closet
+5hxxi8,[POC] CVE-2016-8020: McAfee Virus Scan for Linux allows for remote code execution as root
+6u9l6o,Random Vulnerable VM Generator!
+6ohplr,How I tricked Symantec with a Fake Private Key
+2j7h3c,Zero-day impacting all versions of Microsoft Windows - CVE-2014-4114
+17a1ds,"Drama, Trolls, & Pedobears (oh my)"
+7yccpv,Google Discloses Microsoft Edge Security Feature Bypass
+564wa0,"Senate Republicans were skimmed for six months, quietly fix store"
+5zobch,Samsung leaking customer information via insecure shipper
+59yf1l,A very valuable vulnerability
+3u7nad,9% of all HTTPS hosts and 6% of all SSH hosts on the web use hardcoded private keys embedded in firmware
+7ra2vr,Remote Code Execution on a Medical Infusion Pump
+avw9ni,Wireshark 3.0.0 Released!
+3the8j,Nmap 7 Released!
+b9d041,Ghidra source code officially released!
+57zbkb,The VeraCrypt Audit Results
+6fj36o,How The Intercept Outed Reality Winner
+3bq96e,Vulnerability in 802.11n standard allows remote injection of Wi-Fi frames
+7xppg2,"HTTPS or bust: Chrome's plan to label sites as ""Not Secure"""
+5evehp,"MS Edge: Abusing of Protocols to Load Local Files, bypass the HTML5 Sandbox, Open Popups, Crash all tabs and more! - Broken Browser"
+73n93w,Screwdriving BLE devices
+i8eq0,TrueCrypt User Held in Contempt of Court for Weeks for Failing to Produce 64 Char Password 
+5ty8fh,How to build a 8 GPU password cracker
+32tatr,The Minecraft Server - a lesson on why to not roll out your own data formats and responsible disclosure
+709l2r,malicious software libraries in the official Python package repository
+5a09kp,Incident Report: Inadvertent Private Repository Disclosure · GitHub
+75g4k7,The Absurdly Underestimated Dangers of CSV Injection [x-post from /r/programming]
+47bxhp,Nissan Leaf Api's are very vulnerable
+5jkt00,Disclosing the Primary Email address for each Facebook user
+1bycnt,Firefox 23 will block non-SSL content on SSL pages by default
+3io7pe,Linux workstation security checklist
+4zodbd,HackedThat: Breaking in to a hardened server via the back door
+5jxrwp,How we pranked a colleague by accessing his VoIP phone's filesystem and changed his ringtone to a Christmas song
+1cehph,"My new book ""Hacking Secret Ciphers with Python"" is done. 415 pages, 1700 lines of code, free to download. 100% of proceeds go to the EFF, Creative Commons, and Tor Project."
+7b5ykk,Building and Attacking an Active Directory lab with PowerShell - Easy to follow lab guide includes kerberoasting
+6ba9ky,NSE (nmap) script to detect the vulnerability ms17-010 used by WannaCry
+54mkiz,Mozilla to distrust WoSign and StartCom
+a5tiev,Logitech Keyboard opens WebSocket server with no authentication - Google Project Zero
+5d8z4t,"PoisonTap - siphons cookies, exposes internal router & installs web backdoor on locked computers"
+4g5nq9,"No Surprise here, Opera's ""VPN"" is actually just an http/s proxy that anyone can use."
+23xhmo,Using Facebook's bandwidth to generate ~900 Mbps Get Flood attack on a website
+305k6m,How I Cracked Trivia Crack
+13v9mo,"Leaping Brain's ""Virtually Uncrackable"" DRM is just an XOR with ""RANDOM_STRING"""
+418wff,LostPass
+8vvn8a,Two Zero-Day Exploits Found After Someone Uploaded 'Unarmed' PoC to VirusTotal
+37rit3,"Adios, Hola! - Why you should immediately uninstall Hola"
+7scrv6,All Blizzard games were vulnerable to DNS rebinding vulnerability
+6wjm5q,Disabling Intel ME 11 via undocumented mode
+9z3agl,Multiple 0days in MacOS discovered and used in a red team exercise at Dropbox
+84vk9u,Brute forcing short URLs and targeting organisations to find highly confidential information
+5e7222,WordPress download server is a single point of failure for over 26% of the top 10 million websites worldwide
+3dj5lk,Computer Systems Security | MIT OpenCourseWare
+1bv359,Don't Copy-Paste from Website to Terminal (demo)
+5nh5p2,GoDaddy – 8951 Certificates issued without proper domain validation
+6cf23o,We Are Writing the Ultimate Guide for Mobile Security Testing and Reverse Engineering. Join Us
+3tozgd,Wireshark 2.0!
+8rp0i4,"WebUSB Vulnerabilities, actions of YubiCo, and disclosure madness"
+1nn1l3,So I’m the guy who sent the t-shirt out as a thank you.
+4zjtt4,NSO Group's iPhone Zero-Days used against a UAE Human Rights Defender
+3vy5pe,Hopeless failure of Dutch telecom providers & Phone House to protect personal data: How I could access 12+ million records
+4ybki2,How I Hacked an Android App to Get Free Beer
+1ee0eg,"zPanel support team calls forum user ""fucken little know it all"" as he points out vulnerabilities."
+7mnn78,Why TLS 1.3 isn't in browsers yet
+95c0wg,How I gained commit access to Homebrew in 30 minutes
+84lwa0,Icebreaker: From outside AD to domain admin in one command
+bkj77y,Every FireFox extensions disabled due to expiration of intermediate signing cert
+8dr0rl,Grouper - A PowerShell script to find vulnerable settings in AD Group Policy (Full Sources - See Comment)
+647wac,Shadowbrokers released passphrase to decrypt equation group files
+1rzo4a,I found Prezi's source code
+5r16na,"Cryptkeeper Sets the same password ""p"" for everything independently of user input"
+4f3e6p,full English translation of Phineas Fisher's account of how he took down HackingTeam
+dpt6ln,"Unknown rogue device used to defraud Amazon account twice, bypassing all security features - device in question is completely invisible to both account holder and customer support - from /r/sysadmin"
+7ug6bp,AutoSploit - A Python based mass exploit tool which gathers targets via Shodan and automatically invokes selected Metasploit modules to facilitate RCE.
+7hpbqe,Mailsploit: a collection of bugs in email clients that allow effective sender spoofing and code injection attacks
+79ot64,"Messing with the Google Buganizer System for $15,600 in Bounties"
+1wgsrl,The World's Worst Penetration Test Report by #ScumbagPenTester
+6hzpzf,rtfm.py | A python cheat sheet program à la red team field manual
+4z3noh,Pwntools v3.0 Released
+5fiwal,SHIFT-F10 during Windows Update pops CMD and bypasses Bitlocker
+4fi3hn,"Detecting the use of ""curl | bash"" server side"
+ufaww,"Obama ordered wave of cyberattacks against Iran, including Stuxnet - NYTimes.com"
+4dh5se,WhatsApp's Signal Protocol integration is now complete
+3l1xwb,Android 5.x Lockscreen Bypass
+cq7qxa,butthax: lovense hush buttplug exploit chain
+7xab2r,Winter Olympics attack details
+3tacsv,Even the LastPass Will be Stolen Deal with It!
+8380d7,Hardcoded Password Found in Cisco Software
+8gfvu4,Windows Commands Reference - An InfoSec Must Have (PDF Download)
+5mxe9o,"Cracking The 12+ Character Password Barrier, Literally"
+b71zvx,"8,000+ Cisco RV320/RV325 routers are leaking their entire configuration file, including admin credentials, to the public internet."
+1mwoiy,Chaos Computer Club breaks Apple TouchID
+8ovayw,A cartoon intro to DNS over HTTPS – Mozilla Hacks - the Web developer blog
+3qqo79,000webhost data breach: ~13M passwords disclosed
+a8aikn,How I accidentally found a clickjacking “feature” in Facebook and why it won't be fixed
+29i7kl,Microsoft sinkholes entire no-ip.com domain space
+2rsisc,North Korea's Naenara Web Browser: It's Weirder Than We Thought
+1kcza9,"Was sent this by a friend, the device allows you to physically remove/seize a desktop/server without powering it down. Quite scary..."
+ab94o0,Code release: unCaptcha2 - Defeating Google's ReCaptcha with 91% accuracy (works on latest)
+7zhkgf,GitHub drops TLSv1.0 and TLSv1.1 support
+vbrzg,Etsy has been one of the best companies I've reported holes to.
+9nk764,The Illustrated TLS Connection: Every Byte Explained
+2i6vvh,BadUSB – The Unpatchable Malware That Infects USBs Is Now on the Loose
+7pi8lk,macOS High Sierra's App Store System Preferences Can Be Unlocked With Any Password
+38wl43,We used sock puppets in /r/netsec last year (and are sorry we did)
+38s7o0,How Plex is doing HTTPS for all its users
+9jseva,50 million Facebook accounts owned
+94klae,New attack on WPA/WPA using PMKID
+4wazoh,5k people watching 30 devs reversing Pokemon Go to break unknown6
+1ctrie,Japanese police ask ISPs to start blocking Tor
+56xvp4,Say Cheese: a snapshot of the massive DDoS attacks coming from IoT cameras
+7gzw7x,Persistent drive-by cryptomining coming to a browser near you - Malwarebytes Labs
+2grwdc,I was just asked to crack a program in a job interview
+132kro,John McAfee Wanted for Murder
+fvhdw,"Someone just ripped off 21 popular free apps from the market, injected root exploits into them and republished. 50k-200k downloads combined in 4 days."
+6jttgo,Petya Ransomware Outbreak Live Blog
+3am8zy,Analyzing 443 free proxies - Only 21% are not shady
+59whkk,BruCON 0x08 videos already available
+5dt5gw,Sending Valid Phishing E-mails From Microsoft.com Domain by Using Office 365
+40y1k9,Critical Vulnerability in OpenSSH *Client*
+2r7yxv,Did you ever use a public proxy? Hope not..
+22rmw2,How we got read access on Google's production servers
+59xtwu,Learning To Protect Communications With Adversarial Neural Cryptography [PDF]
+5a1lc4,Web application for detecting server-side request forgery
+j7x82,Don't Let Congress Order Internet Companies to Spy on You: Oppose the Data Retention Bill
+6aizk9,Keylogger found in Hewlett-Packard Audio Driver
+a5j4fr,How we discovered over 50 critical vulnerabilities in Adobe Reader in 50 days.
+76yh4g,Bad rolling code in keyfob for many Subaru cars
+3s7agj,PSA: Do not post material that contains personally identifying information (PII)
+16n1mj,"The tale of VPN logs, an RSA key and and the best developer in the building."
+20sxd2,Full Disclosure mailing list closes
+7e3np3,"Windows 8 and later have been failing to apply ASLR. The binary is relocated, but without any entropy. The base address is the same across executions and reboots."
+49hx5h,Anand Prakash : [Responsible disclosure] How I could have hacked all Facebook accounts
+30gwh5,Baidu's traffic hijacked to DDoS GitHub.com
+7dc275,Bug bounty hunter walks away on 30k$ bounty from DJI (drone maker)
+7dnmvv,"Did Microsoft Just Manually Patch Their Equation Editor Executable? Why Yes, Yes They Did. (CVE-2017-11882)"
+3puc0a,Firefox Nightly starts marking login-forms in HTTP as insecure
+8k83ct,LocationSmart Leaked Location Data for Customers of All Major U.S. Mobile Carriers Without Consent in Real Time
+3vfg21,hashcat and oclHashcat have gone open source
+7iz394,New Android vulnerability allows attackers to modify apps without affecting their signatures
+t58kb,Judge Rules an IP address does not identify an individual!
+2zjgua,"How i exposed your private photos | Facebook bug worth $10,000 USD"
+16oswj,"""I conceal my identity the same way Aaron [Swartz] was indicted for"": Why concealing your identity should not be considered wire-fraud"
+11idgs,"One of the UK's biggest banks, Santander, has personal information stored in cookies, including passwords and credit card numbers"
+69s7xe,HandBrake website hacked & distributed new variant of OSX/Proton
+76ayxm,Someone Created a Tor Hidden Service to Phish my Tor Hidden Service
+2mblm5,"81% of Tor users can be de-anonymised by analysing router information, research indicates"
+3dyuwv,"MS15-078, Remote Code Execution in all versions of Windows. No patch for 2K3."
+1xa5xh,How i hacked github... Again
+9g21yq,How to force restart any iOS device with just CSS? 💣
+2uv782,How you could have remotely unlocked any of 2.2 million BMWs with ConnectedDrive
+5jt2rk,Basics of Making a Rootkit: from syscall to hook
+4agqi5,Bypassing Antivirus With Ten Lines of Code
+8ejy4l,Homemade Stingray - Spoofing GPS/GSM (and more) with a VGA adapter
+6qdrd0,PDF materials and presentations from DEF CON 25 (2017)
+59tys0,Octopus-Rex. Evolution of a multi task Botnet
+5a44q5,Multi-Tool Multi-User HTTP Proxy
+6gs51b,MacSpy: First Malware as a Service for OSX
+inm7f,How not to design a CAPTCHA
+8szo09,"Using a GitHub app to escalate to an organization owner for a $10,000 bounty"
+8u3vms,Files Cannot Be Decrypted? Challenge Accepted. Talos Releases ThanatosDecryptor
+6sbfp8,"We wrote an intro to AI/ML for Security Pros and aren't selling it, so here it is for free"
+4bwmmb,SQL Injection Cheat Sheet by Netsparker
+8r7a5e,Android Malware Worm that mines Cryptocurrency is infecting Amazon Fire TV and Fire TV Stick devices
+6ex4g2,Announcing Google Capture the Flag 2017
+54z7ed,How to Crash Systemd in One Line as Any User
+3lwpzr,Pupy: a RAT with an embeded Python interpreter. can load python packages from memory and transparently access remote python objects. The payload is a reflective DLL and leaves no trace on disk
+1ggu3p,"How not to handle software upgrades (""Please give us your root SSH password over this non-HTTPS webpage."")"
+1b3vcx,"We are the Mozilla Security Community, Ask Us Anything!"
+bzuv53,One of the world's first keystroke loggers: A device created by the Soviets that translated magnetic waves from an IBM Selectric typewriter and transmitted the results via radio to a nearby listening post.
+70m8tn,"Tutorial: Penetration Testing Flash Apps (aka ""How to Cheat at Blackjack""). I was asked how to do this in a recent job interview, so I went out and learned. Here's my write up. Hope it helps!"
+120hda,How a Google Headhunter's E-Mail Unraveled a Massive Net Security Hole 
+cnu6u2,How to Build Your Own Penetration Testing Dropbox Using a Raspberry Pi 4
+5a13jv,The evolution of security in application architecture
+4n4w2h,Taking over 17000 hosts by typosquatting package managers like PyPi or npmjs.com
+3njcvs,How I could hack internet bank accounts of Danish largest bank in a few minutes
+6vvroj,Hacking a Herb Vaporizer to Set Its Temperature Limit From 190C to 6553.5C Remotely
+6e5t38,WannaCry: Two Weeks and 16 Million Averted Ransoms Later
+9ugkkm,Researchers warn of severe SSD hardware encryption vulnerabilities
+4ijpu8,"Ransomware Overview: names, extensions, patterns, decryptors list [Google Doc] [X-post /r/malware]"
+3mvhck,"Truecrypt Critical Vulnerability, Patched in Veracrypt, CVE-2015-7358,7359"
+8ez1fh,"GUI Application for Aircrack, Airodump, Aireplay, MDK3 and Reaver Tools [Android] with Full Sources (See Comment)"
+8bpdm5,Penetrating Pays: The Pornhub Story
+59zb57,ACM Conference on Computer and Communications Security '16 Proceedings have been posted
+5oerbt,The Line of Death
+3pjtn2,Google replacing OpenSSL with BoringSSL
+a57emr,How I could steal your photos from Google - my first 3 bug bounty writeups
+4yhtvf,A Wonderful (and !Secure) Router from China
+8hbqb7,"BetterCap 2.5 - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and attacks (Full Sources, Blog Article and Docs)"
+82a84q,Kali Linux is now available in the Windows Store for WSL
+524ije,How Dropbox gives itself accessibility permissions on your Mac
+4e1ag0,Reverse engineering a router part 1 - Hunting for hardware debug ports
+2tulbd,CVE 2015-023: Nasty bug in glibc gethostby* functions leads to possible wealth of remote code execution opportunities.
+2c0yxh,The world's first operating-system kernel with an end-to-end proof of implementation correctness and security enforcement is now open source.
+4qg7l0,"Hashcat v3.00 released, the fusion of hashcat and oclHashcat into one project. Tons of updates and improvements"
+1m25gi,Installing Dropbox? Prepare to lose ASLR.
+bols7b,New security bug in Intel CPU's
+5lf9o5,Buffer Overflow Explained
+1pg439,Adobe Breach Impacted At Least 38 Million Users And Hackers Have Photoshop Source Code
+3ssd57,Transparently tunnel your IP traffic through ICMP echo and reply packets
+ajnld8,"How I abused 2FA to maintain persistence after a password change (Google, Microsoft, Instagram…"
+1nje2s,Researchers who reported Yahoo email vulnerabilities are awarded just $12.50 in Yahoo store voucher. Seems like one could get more for it if you sold it elsewhere...
+51kmy6,Telnet is not dead – at least not on ‘smart’ devices
+89g6k8,Be careful what you copy: Invisibly inserting usernames into text with Zero-Width Characters
+60pj3c,LastPass RCE vulnerability: websiteConnector.js content script allows proxying internal RPC
+4dvifg,I’m not a human: Breaking the Google reCAPTCHA
+74mz70,How we bypassed the Intel Boot Guard :)
+6vxr8b,Hackers buy a laptop for $1 by exploiting a POS vulnerability
+338iat,The power of DNS rebinding: stealing WiFi passwords with a website
+22yrsm,OpenSSL Software Foundation president: we need support from companies and governments for a team of 6+ full-time workers
+3gejgl,NIST Releases SHA-3 Cryptographic Hash Standard
+6bcz8e,MS17-010 ETERNALBLUE reverse engineered and fully ported to Metasploit Framework
+4qlapv,StartEncrypt considered harmful today
+4yqjis,"I am Nick Cano, author of Game Hacking: Developing Autonomous Bots for Online games. AMA"
+48gce1,The DROWN Attack
+6p0tfb,How the ethereum hack was possible: An In-Depth Look at the Parity Multisig Bug
+3kvuog,"The book iOS App Reverse Engineering, as a gift to the whole jailbreak community, is now open-sourced on github"
+59w4e6,mjg59 | Of course smart homes are targets for hackers
+8kuyti,Extracting SSH Private Keys from Windows 10 ssh-agent
+3qubzn,"Extracts passwords from a KeePass 2.x database, directly from memory."
+29qpgq,Rep Alan Grayson asks the FCC why US phone encryption is still trivially breakable
+2g4t0o,"a JPEG that becomes a PNG after AES encryption, and a PDF after 3DES decryption (AngeCryption PoC)"
+89z47n,Google bug bounty for security exploit that influences search results
+3s9adw,Linux Ransomware Debut Fails on Predictable Encryption Key
+59rf92,A Formal Security Analysis of the Signal Messaging Protocol [PDF]
+1d1ug3,This man never seems to stop amazing me. Phishing the phisher.
+9e4wra,Wi-Fi Gets More Secure: Everything You Need to Know About WPA3
+l4cew,Computer virus hits US Predator and Reaper drone fleet
+6od02s,Remote code execution in Source games via player fragging
+693hkc,Today's Google Docs phishing incident: attack vector first reported in 2012
+7hfd84,"Be careful on TeamViewer, switch sides bug/take control bug"
+56q07e,About 27% of internet networks still allow IP spoofing.
+bew9bo,How the Boeing 737 Max Disaster Looks to a Software Developer
+15wjhr,"Chrome detects fake *.google.com SSL cert, Turkish CA admits issuing intermediate CA certs to 3rd parties in 2011"
+72r30g,TrackMania - a Chrome plugin to stalk your friends that use Tinder
+3qffm5,Intel x86 considered harmful (new paper)
+2wx1si,Hacking Oklahoma State University’s Student ID
+22b6od,How I Hacked Your Router
+cn2z9x,Steam Windows Client Local Privilege Escalation 0day
+catqfq,Zoom Zero Day: 4+ Million Webcams & maybe an RCE? Just get them to visit your website!
+4g973b,Building a Home Lab to Become a Malware Hunter - A Beginner’s Guide
+1pk4gd,"NSA infiltrates links to Yahoo, Google data centers worldwide, Snowden documents say"
+2bd26a,The talk about de-anonymizing Tor at the BlackHat conference has been removed
+8168p6,"Trustico's website was vulnerable to a trivial shell command substitution injection, running as uid=0"
+4ozdz8,Introduction to GPU Password Cracking: Owning the LinkedIn Password Dump
+37ko5v,Introducing: RaaS (Ransomware as a Service)
+cewyzu,Countries are starting to enforce users to install root certificates.
+8wvafa,How to search for Open Amazon s3 Buckets and their contents - New free online tool
+6y7syf,Mastercard Internet Gateway Service: Hashing Design Flaw
+73srk7,"Behind the Masq: Yet more DNS, and DHCP, vulnerabilities"
+4t64bm,"How I Could Steal Money from Instagram, Google and Microsoft"
+2sedtv,How to do not a password manager...
+aphfka,"New vulnerability in runc allows container escape, root-level code execution in Docker"
+6burva,Google Bug Bounty - The 5k Error Page
+17xopq,"Speedtest.net was compromised, this is a good dissection of the attack aftermath"
+bjknvc,Remote Code Execution on most Dell computers
+35ab1f,"[BallsOfSteel]IOActive gets hit with DMCA from Cyberlock, discloses vulns anyway"
+1g221e,Detecting Ghostery
+1hgbpg,Motorola Is Listening
+28dn91,"Hacker Hijacks Synology NAS Boxes for Dogecoin Mining Operation, Reaping Half Million Dollars in Two Months"
+1wjr40,wifijammer - Jam all wireless clients/access points within range using Python
+6f9qzx,The Journey to Hijacking a Country's DNS - The Hidden Risks of Domain Extensions
+7pxlyy,How I exploited ACME TLS-SNI-01 issuing Let’s Encrypt SSL-certs for any domain using shared hosting
+7ormfg,Setting up a DNS Firewall on steroids
+8adnjb,"BRACE YOURSELF - Cisco Vulnerabilities are Coming (Read: Reminder to Check Cisco CVEs for recent announcements, hardcoded passwords, etc)"
+4ll05e,Breaking into a wordpress site without knowing wordpress/php or infosec at all
+c1761q,Yubico does product recall of FIPS YubiKey due to reduced entropy
+apwe28,New Ubuntu Linux privilege escalation exploit and technical write-up (dirty_sock)
+81m4x2,Turning your web traffic into a Super Computer
+6qvtvz,Rooting the Amazon Echo
+56ta3a,"Malware, malicious charging stations, and rogue cell towers - Oh My! NIST releases the Mobile Threat Catalogue for public comment on Github."
+myvj0,Hacker legally robs bank.
+d1h9ag,What’s next in making Encrypted DNS-over-HTTPS the Default in Firefox
+7m0b40,Yahoo! Remote Code Execution via Spring Engine Server Side Template Injection
+5raz1h,Stop Disabling SELinux: A Real-World guide
+2hehgk,"CVE-2014-7169: Bash Fix Incomplete, Still Exploitable"
+18dz1q,"I’m Mudge Zatko, DARPA program manager. AMAA!"
+59hwix,Research paper on intercepting your keyboard presses by listening to your Skype call. (PDF)
+g27tq,HBGary planned to BLOW THE BALLS OFF OF NMAP!
+58o5ub,Comodo used broken OCR to issue certificates to the wrong organizations
+6jdnvu,AWS Security Primer
+59otai,Ruxcon 2016 - Rainbow Over the Windows: More Colors Than You Could Expect
+4uivh5,Bypassing UAC on Windows 10 using Disk Cleanup
+28otei,EFF to release open-source router firmware called Open Wireless Router
+8a7p2g,"Introducing FindSubDomains, a new subdomain enumeration and information gathering tool"
+66ig6c,Design flaws in Lastpass 2FA implementation
+59vzfs,Using email for persistence on OS X
+31bu1g,"How I cracked NQ Vault's ""encryption"""
+aevn7i,Metasploit Framework 5.0 Released
+67q06b,nomx: The world's most secure communications protocol (or not....)
+4m2mnx,KeePass auto-update over HTTP (will not fix)
+387ueq,Auditing GitHub users' SSH key quality
+6wsn24,Damn vulnerable docker vm
+4gf17e,Breaking Steam Client Cryptography
+45439s,"The hype about Crypter, the Facebook Chat ""encryption"", is misplaced and overall dangerous"
+3hfrgi,Multiple Vulnerabilities in Pocket
+82locl,Encryption 101: How to break encryption - Malwarebytes Labs
+3frnxb,My ssh server knows who you are. Seriously. Try: $ ssh whoami.filippo.io
+l2uzj,0day Full disclosure: American Express
+cdgif2,How I Could Have Hacked Any Instagram Account - The Zero Hack
+6qmx2m,[Updated] How to turn Photoshop into a remote access tool
+3od4zc,A closer look at an operating botnet
+3lefc6,"Chinese iOS devs download Xcode from 3rd-party, spyware was added in compile time for many popular Chinese iOS apps (raw report Chinese)"
+8bt4hr,Abusing Linux's firewall: the hack that allowed us to build Spectrum
+4kwezv,Videos (with Commentary) of People Hacking
+4a4e4a,HackerOne Disclosure: SSRF in Imgur
+2cywhk,How Hold Security Lied about 1.2 Billion Compromised Credentials
+52wgky,"WiFi Pentesting With a Pineapple NANO, OS X and BetterCap"
+3n82oq,How Patreon got hacked – Publicly exposed Werkzeug Debugger
+34va1b,"Netflix introduces FIDO, an Automated Security Incident Response tool"
+2vmdce,Decrypting TLS Browser Traffic With Wireshark – The Easy Way!
+6jq4of,How Not to Encrypt a File — Courtesy of Microsoft
+5sd4y8,Password managers: attacks and defenses
+47j1zm,How to make a USB disguised as a CD-ROM (useful for using autorun on windows 7 and up)
+xdvov,Ubisoft “Uplay” DRM is also a rootkit permitting websites to launch arbitrary executables
+7tvpx0,"All current Cisco ASA and FTD firewalls supporting AnyConnect clients remotely exploitable, vulnerable to DOS"
+hdg3m,Dropbox Lies About Users Privacy and Encryption
+8lk1v1,New VPNFilter malware targets at least 500K networking devices worldwide
+1x8hkz,"Errata Security: NBC Olympic ""hacking"" story 100% fraudulent"
+5jh5o5,How Skype fixes security vulnerabilities
+2ygbhy,Project Zero: Exploiting the DRAM rowhammer bug to gain kernel privileges
+i4gtj,Sony just got breached for the 20th time in two months. That must be a record.
+9xsmy8,SMS 2FA service leaked. 26 million texts and metadata.
+8dfued,No boundaries for Facebook data: third-party trackers abuse Facebook Login
+7i8clt,"How to Hack a Turned-Off Computer, or Running Unsigned Code in Intel Management Engine"
+unt4p,6.5 Million LinkedIn password hashes leaked
+adptt0,Ethereum Classic (ETC) is currently being 51% attacked
+8kz7qu,$36k Google App Engine RCE
+4n8ueh,Why you shouldn't share links on Facebook
+w4qb8,Epic SQL Injection Cheatsheet
+8g5bbe,"A Collection of Python Scripts for UAC Bypass,Privilege Escalation, Dll Hijack and Many More Techniques (See Comment)"
+7kfpt3,Embed PowerShell payloads in the pixels of images and generate oneliners to execute
+7bsoxc,"Where there's a JTAG, there's a way: obtaining full system access via USB. (Uses Intel ME)"
+34e6si,"WhatsApp's end-to-end encryption analysed: It's pretty good, yet still useless."
+59s0ux,"Joomla – From No One to the Highest Privilege, a deep look to the root."
+agaiv7,Thirty-five-year-old vulnerability found in SCP
+ch86o6,"VLC ""security issue"""
+aqhsol,Pwning WPA/WPA2 Networks With Bettercap and the PMKID Client-Less Attack
+dooxtm,Untitled Goose Game Insecure Deserialization/Code Execution
+axvken,Ghidra Public Release
+87lxwx,Thought Meltdown was bad? Here's Total Meltdown (Win7/2008R2)!
+5ohhyd,FACEBOOK’S IMAGETRAGICK STORY
+5d3rlh,Metasploitable3 is out
+2s7q3e,KeySweeper: a camouflaged USB charger+Arduino to sniff Microsoft wireless keyboards. SMSs & logs keystrokes online
+92eso3,A tcpdump Tutorial and Primer with Examples
+190i3u,HDCP is now completely useless. Generate your own keys.
+4i58ys,Phrack Issue #69 is out [06 May 2016]
+2jbfgp,"OSX appears to leak data, metadata when indexing USB drives"
+6pq8zl,Announcing the Windows Bounty Program
+60g4qk,Moodle – Remote Code Execution
+1ppwet,The badBIOS Analysis Is Wrong.
+1ob7bw,Reverse Engineering a D-Link Backdoor - /dev/ttys0
+8yjgqj,RFID Thief v2.0 - Build & Tutorial for Long Range RFID Cloning
+5wv7ir,Breaking Google’s ReCaptcha v2 using.. Google
+rx5x8,AT&T Microcell FAIL
+6pw67s,Cracking the Lens: Targeting HTTP's Hidden Attack-Surface
+4nsjir,Rejected Con is an online annual security conference that allows the presentations rejected by other conferences to see the light of day.
+59nw3b,Killing Mirai: Active defense against an IoT botnet (Part 1)
+1jcez3,Why I willingly handed over my credit card and PIN to a fraudster
+10g9d3,​​​Data breach at IEEE.org: 100k plaintext passwords
+7ylg9h,PcapXray - A Network Forensics Tool To visualize a Packet Capture offline as a Network Diagram
+5chri0,Inferring your mobile phone password via wifi signals
+5a712m,Vlany: Linux (LD_PRELOAD) rootkit
+1mrgjj,RSA Tells Its Developer Customers: Stop Using NSA-Linked Algorithm
+7ppv30,New Python-Based Crypto-Miner Botnet Flying Under the Radar
+4wp176,DEFCON Slides
+209h4d,Samsung Galaxy Back-door
+54fq2f,Introducing MailSniper: A Tool For Searching Every User's Email for Sensitive Data
+h584m,Feds Demand Firefox Remove Add-On That Redirects Seized Domains
+59ujbj,Windows Device Guard Code Integrity Policy Reference
+6tg0qc,Reverse Engineering Malware 101
+3p8h26,Releasing XVWA (Xtreme Vulnerable Web Application) An insecure application to learn practical application security.
+1goxa8,Yahoo's Very Bad Idea to Release Email Addresses
+7eapye,TP-Link serves no or outdated firmware on 30% of its European websites
+1x2mgc,Firefox 27 allows you to deobfuscate javascript in the debugger
+1oqf6y,Penetration Testing Practice Labs .. LOTS of them!
+32bepx,"Watching bad guys do bad things badly, and how Huthos VPS provider is probably run by criminals"
+31w7yg,LG Split Screen destroys your PC's security
+2vop9n,So I lost my NAS password (vulnerability discovery walkthrough)
+237ayz,Lavabit lost its appeal [link to court ruling]
+yql1e,"Windows 8 Tells Microsoft About Everything You Install, Not Very Securely"
+4c63ee,Fishing for Hackers: Analysis of a Linux Server Attack
+2em2ma,"Netflix open sources Scumblr and Sketchy Security Tools: Search, Screenshot, and Reclaim the Internet"
+mo4bz,Week ago I've patched my SSH server to log user/password on invalid log-in attempts. This is a list of 3078 passwords that were collected.
+b4dwjl,Endlessh: an SSH Tarpit
+7ujyzx,Open-source IOS11 Jailbreak by Coalfire Labs
+3tl4xd,TIFU by using Math.random()
+7z59w3,Internet of Baby Monitors: 56.000 Baby Monitors Can Be Spied On With Ease
+58fr0l,Slack Access Control Bypass ($9k)
+4kr0az,Pastejacking: Using JavaScript to override your clipboard contents and trick you into running malicious commands
+21qkho,Turkey Hijacking IP addresses for popular Global DNS providers
+1nqhag,Attacking Tor: how the NSA targets users' online anonymity | World news
+1dhg8j,"ESEA pro gaming league slips in Trojan to its gaming client without consent, mines bit coins with paying customer computers for 2 weeks before getting caught."
+axp32w,"Penetration Testing Active Directory, Part I"
+5osj68,Windows Privilege Escalation Methods for Pentesters
+2787df,Google releases new JS crypto library: End-to-End
+9h5429,Online retailer Newegg beached by Magecart group as well
+7gur8o,Bucket Stream: Finding S3 Buckets by watching certificate transparency logs
+6ltxtt,The key to old Petya versions has been published by the malware author (x-post /r/Ransomware)
+620k3r,Escaping a Python sandbox with a memory corruption bug
+303as7,"Unauthorized digital certificates for several Google domains, issued by an intermediate certificate authority apparently held by a company called MCS Holdings."
+23db2x,TCP32764 backdoor again
+77mclm,"IoT reaper - a new IoT botnet spreading using exploits, not password brute force"
+dv0fb8,Keylogging in Slack via CSS injection
+1r663o,Google and Gmail Account Recovery Vulnerability
+1iykh3,Hackers Reveal Nasty New Car Attacks--With Me Behind The Wheel (Video)
+ae6xtk,RCE in Steam Chat
+7jaedd,The 2018 Guide to Building Secure PHP Software
+8e2290,New Version of Satan Ransomware Uses EternalBlue Exploit to Spread Via the Network and then Encrypt Files
+1nog2e,Adobe source code & credit cards compromised
+5cx87c,Compromising a Linux desktop using... 6502 processor opcodes on the NES?!
+42l60u,PayPal Remote Code Execution Vulnerability using Java Deserialization
+2z5gji,"How ""../sms"" could bypass Authy 2 Factor Authentication"
+1ofr05,Why Android SSL was downgraded from AES256-SHA to RC4-MD5 in late 2010
+19yqbv,Days since last Java 0-day...
+b672gb,A Pentester's Guide - Part 1 (OSINT - Passive Recon and Discovery of Assets)
+90xugv,RCE in Intel AMT for all current CPU's
+5sn8ad,"How I hijacked top celebrities tweets including Katy Perry, Shakira…"
+2petae,nmap cheatsheet + examples
+bi9bvc,The inception bar: a new phishing method
+1k4zhz,I rooted my Transcend WiFi SD card! And wrote a post on how bugs were discovered and exploited to take over the system
+8aj917,the beep command can be used to probe for existence of files owned by other users including root
+3r7opo,Hack Like the Bad Guys – Using Tor for Firewall Evasion and Anonymous Remote Access
+9wnime,Vulnerability in BGP takes down Google
+59ptrs,"HoneyPy, Getting Started Series"
+immqk,"Anonymous hacks Booz Allen Hamilton, US military contractor, 90k logins dumped"
+cp2xy4,Say Cheese - How I Ransomwared Your DSLR Camera
+46h35y,Issue 703 - google-security-research - Comodo: Comodo Internet Security installs and starts a VNC server by default - Google Security Research
+c8mga8,First malware known to have used DNS over HTTPS - passive network visibility go *pooof*
+b5v302,Hackerone $50M CTF Writeup
+6q6lse,Chaining 4 Bugs to get RCE on Github Enterprise
+403d8f,An old email from Tsutomu Shimomura on January 25 1995 describing Kevin Mintnick's TCP session hijacking attack.
+10skmr,"Forgot your hotel room key? Here, use this pen."
+101qiy,"How to Launch a 65Gbps DDoS, and How to Stop One"
+nb363,"Big surprise... FBI says it may use Carrier IQ in ""Law Enforcement Proceedings"""
+8ux6si,"PSA: Avoid the fake Android App Runtime (ARC Welder) extension (with over 32,000 installs!) on the Chrome Web Store, as it injects ads and trackers into every webpage you visit. It is the only one that shows up in search results and the real one appears to be installable, but delisted/""noindex""-ed"
+ayesx8,Facebook Messenger server random memory exposure through corrupted GIF image
+8atb53,Everything you need to know about log auditing
+7cus2h,Chrome 61 UXSS exploit (CVE-2017-5124)
+36b1bc,What one may find in robots.txt
+u26pv,Yahoo included their cert private key inside the Axis Chrome extension.. (means anybody can sign extension as yahoo)..
+cw7b7u,Hey r/netsec - Here's a first look at our new series Kernel Panic. Episode 1 shows how the Morris Worm devastated global networks and planted the seeds of public mistrust.
+cvmtoz,How I Hacked Instagram Again - The Zero Hack
+88md49,Hakluke’s Ultimate OSCP Guide: Part 3 — Practical hacking tips and tricks
+honb4,EFF is asking people to set up TOR relays.
+4xttzl,“Fileless” UAC Bypass Using eventvwr.exe and Registry Hijacking
+4apx00,AceDeceiver: First iOS Trojan Exploiting Apple DRM Design Flaws to Infect Any iOS Device (x-post /r/programming)
+3qarhc,66% of VPN’s are not in fact broken
+19s2vk,Yahoo accounts are being hacked all over the world. Why has there been no word on this?
+dsxgo0,Bypassing GitHub’s OAuth flow
+81bcmd,Let's Encrypt ACMEv2 implementation supporting wildcard certificates is completed
+38d30w,Surviving reformats by infecting the hard disk firmware
+eqc11,From Defcon: Hacker gets his computer stolen
+bvhao5,Disclosing TOR users' real IP address through 301 HTTP Redirect Cache Poisoning
+6e8aji,Intro to RFID Hacking with The Proxmark 3
+5mahfl,1Password is still using full Dropbox access to sync vaults
+5keog6,"mitmproxy 1.0 released, now with a web interface"
+1h4lgk,Hijacking a Facebook Account with SMS
+agrrig,"Troy Hunt: The 773 Million Record ""Collection #1"" Data Breach"
+59uhnz,ReverseEngineering of NT Printing Stack for the Open-Source ReactOS Operating System [PDF]
+52dgxh,MySQL Remote Root Code Execution / Privilege Escalation (0day Exploit) CVE-2016-6662
+cmbd74,"New AWS ""vulnerable by design"" CloudGoat scenario inspired by the Capital One breach"
+69ltbz,Handling bot attacks against a Tor hidden service
+2f5eyl,AppleID password unlimited bruteforce p0c
+1lpm5u,Don’t run a Tor router and a hidden service from the same connection!
+41of9v,A curated list of (awesome) security talks
+aclqu1,Phishing template uses fake fonts to decode content and evade detection
+a64e7q,How I got a $3k bug bounty from Twitter
+5p4hk0,Practical Docker for Security Admins - Using docker to quickly deploy tools and practice security work
+1jl6qh,Chinese Hacking Team Caught Taking Over Decoy Water Plant
+17jk4x,Found a CSRF vulnerability in Woot.com. Reported it responsibly and got free stuff!
+q3ze1,Appeals court rules that requiring someone to decrypt their TrueCrypt drive is a violation of the 5th Amendment under certain circumstances
+dws0i7,A Guide to Common Linux Backdoors and Rootkits
+8fqk0d,Code Published for Triggering a BSOD on Windows Computers -- Even If They're Locked
+5gzz7j,Spoofing the Address Bar with the Malware Warning. Loading Edge Internal Assets without restrictions - Broken Browser.
+51eae0,Snagging creds from locked windows machines
+2e3m5c,Using the gyroscope to record sound without microphone permissions on Android [PDF]
+a7auxc,Everything you should know about certificates and PKI but are too afraid to ask
+6rb789,U.S. Senators introduce IoT bill affecting gov. procurement; good-faith research liability protections.
+5nlx8n,Google Infrastructure Security Design Overview
+7omwh7,Read privileged ARM system registers from usermode - PoC implementation of Meltdown variant 3a
+cqrji9,Huge Survey of Firmware Finds No Security Gains in 15 Years
+2ftsnx,Why Google is Hurrying the Web to Kill SHA-1
+14etfq,"Skynet, a Tor-powered botnet straight from Reddit"
+462xx0,glibc getaddrinfo() stack-based buffer overflow
+25rlb9,"How I bypassed 2-Factor-Authentication on Google, Facebook, Yahoo, LinkedIn, and many others"
+1vieal,Know your windows processes
+9i3rwq,"Illegal streams, decrypting m3u8's, and building a better stream experience"
+d87e13,Introducing shhgit: find GitHub secrets as soon as they are commited
+7zx1e4,"mitmproxy 3.0 released, an open-source console-based proxy"
+5bg3f4,X3DH: Extended Triple Diffie-Hellman Key Exchange Protocol - Open Whisper Systems
+8n73b4,CVE-2018-11235 : Security vulnerability in Git
+8f5nt0,Snallygaster - Tool to scan for secret files on HTTP servers (With Sources)
+5mjs7w,[Bug Bounty] GitHub Enterprise SQL Injection
+2d6yti,Reverse Engineering for Beginners: Free book
+6t0z9m,Malware Analysis - ElmersGlue ransomware can be unlocked without paying
+qiivm,Coming to a network closet near you.
+aspe1q,Extracting a 19 Year Old Code Execution from WinRAR - Check Point Research
+4dlel6,A Tale of Security Gone Wrong
+15gow9,COMCAST physical address disclosure hole:  Easily find the physical address of a machine with COMCAST Internet if you have access to the machine.
+7c0ouv,x86_64 TCP bind shellcode with basic authentication on Linux with 136 bytes explained
+2w8kii,Duplicate SSH Keys Everywhere
+4yv54n,Website enumeration insanity: how our personal data is leaked (xpost r/sysadmin)
+2kazw2,Don't run 'strings' on untrusted files
+5abwjj,The Shadow Brokers: Trick or Treat
+1ks1e6,Wikipedia will shortly enable HTTPS for all logged in users
+hyqzl,Lulzsec exposes Bethesda Softworks and US Senate websites.
+67bs8j,Top 10 Developer Crypto Mistakes
+31e2ot,The lack of HTTPS at Amazon: identifying items purchased using information leakage
+1j35sk,RIP Barnaby Jack. Here's my favourite talk of his (ATM Jackpotting)
+1b1kfz,Running A SSH Honeypot With Kippo: Let's Catch Some Script Kiddies
+7svj9w,ASUS routers LAN-side unauthenticated remote code execution
+3yahov,32nd Chaos Communication Congress starts tomorrow
+340hib,Pwning a thin client in less than two minutes
+xwstl,PayPal Bounty Program: Don't bother.
+k34mx,"Mozilla: Diginotar mishandled their breach, & thus removal of Diginotar from Firefox is permanent."
+8re769,Another way to pwn the Tapplock Smart Lock (the API way)
+825fn0,Pwning Active Directory using non-domain machines
+3a2owv,"Swiftkey keyboard in various stock Samsung ROMs vulnerable to RCE, even if 3rd party keyboard in use."
+33xilf,"Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win. - Defender Mindset - Site Home"
+2zwfhk,Is Your VirtualBox Reading Your E-Mail? Reconstruction of FrameBuffers from VRAM
+dvumig,We are Michael Coates and Rich Mason. We have served as Chief Information Security Officers at Twitter and Honeywell. Ask us anything about becoming a CISO.
+c709cn,OpenPGP Keyservers Under Attack
+8476w5,CVE 2018-1057: Authenticated [Samba] users can change other users' password
+74elfh,How I could have mass uploaded from every Flickr account
+6yuy3w,Public API for Vulners. Seems to be world's largest vulnerabilities database.
+61stmb,Buffer overflow in the WebDAV service in Microsoft IIS 6.0 allows remote attackers to execute arbitrary code
+cjbeqi,"A primer on cryptographic attacks, explained in a simple way with approachable examples. Learn about Downgrade attacks, Precomputations, Oracles, brand-name SSL vulnerabilities (CRIME, POODLE...) -- and the surprising connections between them."
+226csx,One of World’s Largest Websites Hacked: Turns Visitors into “DDoS Zombies”
+1brtwz,Update on Ad Injecting Texas ISP
+1uptdc,A Live Map of Ongoing DDoS Attacks
+7itxut,Intel Management Engine Critical Firmware Update (Intel-SA-00086)
+5xii6x,"gargoyle is a technique for hiding all of a program’s executable code in non-executable memory. At some programmer-defined interval, gargoyle will wake up–and with some ROP trickery–mark itself executable and do some work."
+3upv3c,Cutting the Lights: Vulnerabilities in a Billboard Lighting System
+10768w,Security researchers hack Android remotely over NFC to gain full control and steal all data from a Samsung Galaxy S3
+77874o,test your APs if are affected by KRACK attack
+726239,SniffAir - A framework for wireless pentesting.
+59ogp0,AtomBombing: Brand New Code Injection for Windows
+a3osuy,HTTPS in the real world
+5tiabb,Ubuntu 16.10 local privilege escalation exploit via ntfs-3g (Google P0)
+5np4q1,A practical guide to RFID badge copying
+txwbq,Nmap 6 released!
+ajekyh,"A brazilian academic researcher's BGP ""research"" triggered a bug in FRR twice (jan 8 and jan 23), knocking routers around the world offline"
+751q5f,Wi-Fi packet sniffing / monitoring on Windows using Raspberry Pi - inspired by Wimonitor
+55md0t,"Pwning a thin client in less than one minute, again!"
+9v0wqn,"Rewritten for TLS 1.3: The New Illustrated TLS, Every Byte Explained"
+64x3rx,Identifying HTTPS Protected Netflix Videos in Real Time
+2o6ka5,Hacking PayPal Accounts with one click (max PayPal bounty)
+856yor,RDP hijacking — how to hijack RDS and RemoteApp sessions transparently to move through an organisation
+6nfoqg,5 severe Vulnerabilities found in IoT smart alarm system that could allow remote execution
+3es6q4,RCE via MMS on Android
+1ls0tm,Large botnet cause of recent Tor network overload
+1720c2,How to Secure SSH with Google Authenticator’s Two-Factor Authentication - How-To Geek
+7mfsky,A fully implemented kernel exploit for the PS4 on 4.05FW
+59qfa0,AIEngine (Artificial Inteligent Engine)
+41gjds,"Angler Exploit Kit Continues to Evade Detection: Over 90,000 Websites Compromised"
+1yst2y,YouTube ads serving malware
+4prrek,Apple EFI firmware passwords and the SCBO myth
+4mrwxd,"Mitsubishi PHEV hybrid theft alarm only protected by a short, simple WPA2 PSK"
+167c11,Serious vulnerability in Ruby on Rails allowing arbitrary Ruby code execution in any Rails application
+1xiiin,How I hacked Instagram to see your private photos
+a7o9s1,"PyRDP: a new open-source RDP MITM that records screens and collects files, credentials, and clipboard data. Bonus: Office Christmas Prank"
+59o3mt,CVE-2016-6321 - GNU tar extract pathname bypass
+2q3ll3,unix-ninja :: A cheat-sheet for password crackers
+j0njj,"Proof that the FBI is only arresting script kiddies in its much heralded ""Anonymous"" crackdown: They are just going down a list of the top 1,000 IP addresses (given to them by PayPal) who sent the most traffic to PayPal during the DDoS attacks last December"
+5uxy88,SQL injection in an UPDATE query - a bug bounty story!
+3goktw,Obtaining domain administrator credentials in 17 seconds with CredCrack
+2vi2wu,One-Bit To Rule Them All: Bypassing Windows’ 10 Protections using a Single Bit
+2h869n,Kali Linux NetHunter - Kali for your Nexus devices
+9kxa1n,"70+ different types of home routers(all together 100,000+) are being hijacked by GhostDNS"
+6uhpe5,Reverse Engineering My Home Security System: Decompiling Firmware Updates
+4xznlu,EquationGroup Cisco ASA turn off password auth demo
+1jz8zw,Why is notepad.exe connecting to the internet?
+aoeuvu,Downgrade Attack on TLS 1.3 and Vulnerabilities in Major TLS Libraries
+8eeyz7,A bunch of Red Pills: VMware Bugs Leading to Guest to Host VMWare Virtual Machine Escapes
+75vree,Over The Air Conclusion: Exploiting The Wi-Fi Stack on Apple Devices
+4esfis,Gone In Six Characters: Short URLs Considered Harmful for Cloud Services
+n4ruy,CA hacked in The Netherlands; It was breached because PHPMyAdmin did not have a password
+m48gx,Charlie Miller gets kicked out of Apple's developer program for building a proof of concept app to demonstrate a bug he'd reported to the company three weeks earlier.
+jmbyp,An IT administrator launched a crippling attack against his employer from a McDonalds with Wi-Fi; the FBI traced the attack to him because he used his credit card to make a $5 purchase at the restaurant just 5 minutes before the attack started
+5xubcu,Hacking the Western Digital MyCloud NAS
+466jap,Pwning CCTV cameras
+3k9ul8,We run five InfoSec consulting companies - Ask Us Anything (2015 edition)
+1kuevc,Extracting encryption keys from Firefox and using them in Wireshark to decrypt SSL
+1hisg6,/r/netsec's Q3 2013 Information Security Hiring Thread
+j5kpj,"How to do just about anything using SSH (break through firewalls, etc.)"
+b0sefq,Extracting BitLocker keys from a TPM
+7f7htp,Reverse Engineering the Furby Connect
+1ydao6,How I was able to track the location of any Tinder user
+3mbqzm,Cookies set via HTTP requests may be used to bypass HTTPS and reveal private information
+2syoge,Silently Owning Modems And Routers
+3tv4c2,United Airlines Bug Bounty: An experience in reporting a serious vulnerability
+2lvoee,WireEdit | A Full Stack WYSIWYG Editor for Network Packets
+2eg64u,Pulling the Curtain on Airport Security
+104r6a,PIN number analysis
+5przby,Project Zero: Magic WebEx URL Allows Arbitrary Remote Command Execution
+35jqt3,60 Days of Watching Hackers Attack Elasticsearch
+1bnjyv,5 ways to implement HTTPS in an insufficient manner
+yo7zi,And the crypto talk of the year award goes to...
+8jb6cj,Efail: Breaking S/MIME and OpenPGP Email Encryption using Exfiltration Channels [Paper and Blog Article]
+1c62gw,Zerocoin is a new cryptographic extension to Bitcoin that (if adopted) would bring true cryptographic anonymity to Bitcoin. It works at the protocol level and doesn't require new trusted parties or services.
+c2w1s4,Firefox 0day can execute binaries on host
+3uik6a,When children are breached – inside the massive VTech hack
+2gvpje,A look into LastPass - Extracting the master password
+dhpjf8,Bypass McAfee with McAfee
+clxuht,Detecting incognito mode by timing the Chrome FileSystem API
+b5ncqs,36 vulnerabilities in LTE 4G standard could enable data interception
+1ri5qr,Defcon 21 videos
+i96vx,"Lulzsec officially calls it quits, releases final torrent (Pastebin)"
+amcqi7,"Various Google Play ‘Beauty Camera’ Apps Send Users Pornographic Content, Redirect Them to Phishing Websites and Collect Their Pictures"
+82tn7o,"SharpShooter - a weaponised payload generation framework with anti-sandbox analysis, staged and stageless payload execution and support for evading ingress monitoring [See comment for Sources]"
+75gomb,OxygenOS is collecting a lot of personal info about your phone usage
+4h4j7b,How Russia Works on Intercepting Messaging Apps
+89i6lc,IT and Information Security Cheat Sheets
+4pniau,Facebook's Bug - Delete any video from Facebook
+4cli3a,Issue 773 - google-security-research - TrendMicro: A remote Node.js debugger stub is listening in default install
+3z5x3t,DHCPwn - A DHCP IP exhaustion tool
+1shi77,"TextSecure, Now With 10 Million More Users (CyanogenMod integration)"
+1ah2gq,Hacking the <a> tag in 100 characters (deviously simple phishing)
+6hgar3,‘Send Later’ in KMail caused it to send OpenPGP encrypted emails in plain-text
+k08a4,"Defcon 19: Steal Everything, Kill Everyone, Cause Total Financial Ruin [Video]"
+9ogxio,How I hacked modern Vending Machines
+9kq7le,CVE-2017-11176: A step-by-step Linux Kernel exploitation
+8mt968,reCAPTCHA bypass via HTTP Parameter Pollution
+2n8xnt,"on Linux, 'less' can probably get you owned"
+jrldz,Slip-Up in Chinese Military TV Show Reveals More Than Intended
+862mmz,"AMD confirms CTS exploits, patches available in weeks"
+65hs9n,OBD-II Dongle Attack: Stopping a Moving Car via Bluetooth
+1urpjc,How's My SSL?
+16dtf5,"Bitcoin exchange hacked via Rails exploit, funds stolen "
+55cpz3,"Apple's response to the WoSign incidents: Free SSL intermediate distrusted, whitelist using Certificate Transparency"
+395nsu,iOS Mail App Allows Harvesting Apple IDs
+oirje,Zappos.com customer database compromised
+6vbxyf,Hijacking Control of Wireless Mice and Keyboards
+3nyky8,The Shappening: freestart collisions for SHA-1
+bwc918,NVIDIA GeForce Experience OS Command Injection: CVE-2019-5678
+43odq5,Introducing gophish - An Open-Source Phishing Framework
+1q6zmi,"[Screenshots] LANs.py: catch usernames, passwords, and messages on a network + inject arbitrary HTML into visited pages"
+15ohbf,"How I got a $3,500 USD Facebook Bug Bounty"
+144txb,"Violent Python:
+A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers"
+byu8l3,Large European Routing Leak Sends Traffic Through China Telecom
+6q2dnm,Record sound of key presses and use ML to infer what the victim is typing
+59onl0,Attacking JavaScript Engines: A case study of JavaScriptCore and CVE-2016-4622
+44r2q8,Barcode attack technique (Badbarcode)
+1yhhwp,Bitcrypt broken
+deivbs,How my application ran away and called home from Redmond
+6k0ufa,Stackhackr: New malware simulation tool
+5qqe8j,Wanna hack an aircraft carrier? USNavy event in Austin Feb 17-19
+4hzvog,"Target=""_blank"" - the most underestimated vulnerability ever"
+30xnhj,Stanford crypto expert Dan Boneh wins $175K computer science award
+mw3k2,"Wikileaks SpyFiles dumps contracts, catalogs etc... of surveillance contractors"
+c6dspg,Spoofing Presidential Alerts in 4G LTE Networks
+8hvnnw,RouterSploit 3.0 is out - Exploitation Framework for Embedded Devices
+5hfkc2,Netgear R7000 and R6400 routers are vulnerable to arbitrary command injection
+3hbbvy,hidden tear - the first open source ransomware
+22man5,Heartbleed PoC - malicious server attacking clients
+1sc3t8,French CA (ANSSI) issuing unauthorized certs for Google domains
+1fkkmm,Windows NT/2K/XP/2K3/VISTA/2K8/7/8 EPATHOBJ local ring0 exploit
+d49qj8,How two dead users allowed remote crash of any instagram android user
+6n5w12,Crashing phones with Wi-Fi: Exploiting nitayart's Broadpwn bug (CVE-2017-9417)
+5uha3r,malboxes: open source tool that automates the setup of virtual machines for malware analysis
+4fan7e,How I defeated an obfuscated and anti-tamper APK with some Python and a home-made Smali emulator.
+3u4g7g,Samy Kamkar: MagSpoof - credit card/magstripe spoofer
+2nenn4,"AT&T U-Verse VAP2500: The Passwords, They Do Nothing!"
+1eqh66,0day: Windows Kernel EPATHOBJ Vulnerability
+1eb9iw,"sd@fucksheep.org's semtex.c: Local Linux root exploit, 2.6.37-3.8.8 inclusive (and 2.6.32 on CentOS) 0-day"
+5avzzm,GitLab bug that leads to command execution
+431yx9,VirusTotal adds support for analyzing EFI firmware files
+27dhcn,OpenSSL Security Advisory: seven security fixes
+1td36f,An update on Truecrypt
+9k4ib8,An Innovative Phishing Style
+3rrr9z,"What Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and Your Application Have in Common? This Vulnerability."
+ymjal,I accidentally the whole private key.
+mj4fh,"Security companies that support SOPA: McAfee, Kaspersky, and Symantec. Any others?"
+5dmybj,Reverse engineer your app online to see API tokens and secrets
+4fyzyc,Cryptocat rewritten from scratch: Invitation to take a second look
+45xkwz,How to Safely Store a Password in 2016 (with example code)
+3kn977,"canarytokens.org - Quick, Free, Detection for the Masses [honeypot URLs, trigger alerts when accessed]"
+24aj6c,Tails 1.0 released!
+1l4gue,Why Browsers Need Encrypted-Only Mode
+a79k76,Guide to finding and exploiting hidden web directories and files
+6ku5jz,"Giving perspective on systemd's ""usernames that start with digit get root privileges"" - bug"
+6etbt2,"Hacker, Hack Thyself"
+3mh0zw,Troy’s ultimate list of security links
+3csh17,Reverse Engineering the Subway Android App
+20mftq,How I got root with Sudo
+nwea6,Next time you need to set a 4-digit PIN remember that using only three numbers is more secure than four. 
+59or3x,HITCON 2016 - (P)FACE into the Apple core and exploit to root
+243dgx,New Zero-Day Exploit targeting Internet Explorer Versions 9 through 11 Identified in Targeted Attacks
+1vq4f9,Snapchat Never Fixed Phone Number Lookups
+necay,"Iran hijacked US drone with GPS spoofing, says Iranian engineer"
+hsufn,Sony Computer Entertainment Developer Network Source Code Leaked
+biicry,The only PowerShell Command you will ever need to find out who did what in Active Directory
+adgejv,Australian Emergency Warning System hack leads to potential phishing message broadcast to thousands
+5fawzz,All your Paypal #OAuth tokens belong to me - localhost for the win
+3ed4fu,CVE-2015-3245 and CVE-2015-3245: local exploit that lets users change /etc/passwd
+28gqcw,Xfinity Pineapple - cloning Comcast access points for fun and profit
+aj62se,GitHub bug allows users to view private repos after access is revoked.
+76ja60,"Predicting, Decrypting, and Abusing WPA2/802.11 Group Keys"
+5zjei8,GitHub Enterprise Remote Code Execution
+5a97w7,"The /r/netsec Weekly Discussion Thread - October 31, 2016"
+54848d,LuckyStrike : malicious document generation tool
+48cw2e,Transmitting radio from a normal computer (exfil)
+3yu33d,From F to A+: Getting a Good Grade on securityheaders.io
+1t8twy,"Target issues a statement: ""unauthorized access to payment card data in U.S. stores"""
+bdl3xe,Adblock Plus filter lists may execute arbitrary code in web pages
+7fu348,Image removal vulnerability in Facebook polling feature
+616ozu,"MS Edge Referrer Spoof - How to spoof the referrer even after MS patch. (also, inject an iframe everywhere) - BrokenBrowser.com"
+5gpq7p,Here's 1.4 billion records from Have I been pwned for you to analyse
+4mf37t,HTTP MITM to SYSTEM: Asus LiveUpdate lets you run anything you want as long as you've got HTTP intercepted...
+62z1o3,How we exploited a remote execution vulnerability in math.js
+5df57o,"HackingTeam back for your Androids, now extra insecure!"
+3ps0dp,Critical Joomla SQL injection vuln that results in full admin access
+1ykt3t,SSL/TLS authenticity checks broken in Apple iOS <7.0.6 (CVE-2014-1266)
+jsrla,Mac OS X Lion accepts any password when authenticating via LDAP
+ew6ep,iwatchedyourhack.org - spying on real script kiddies pwning fake servers
+5hwcga,127 Billion Cracks - Password Cracking On A “Budget”
+dk5r8p,Weaponizing and Gamifying AI for WiFi Hacking: Presenting Pwnagotchi 1.0.0
+b1myb2,RCE on Steam Client via buffer overflow in Server Info
+6tbnye,Reverse Engineering Malware - Edition 2
+6o3izh,A Security Audit of Firefox Accounts
+51xd42,DuckToolkit-NG (Hak5 USB Rubber Ducky Tool)
+2dbuzz,How Gamma Finfisher was hacked
+8zc9na,"Cloudflare, Fastly, Mozilla and Apple working on SNI encryption for TLS 1.3"
+8ngta8,Analysis of a Steam client RCE vulnerability
+7x1i53,Drive-by cryptomining campaign targets millions of Android users
+5q41n5,0day writeup: XXE in uber.com
+46key6,"New Android Trojan “Xbot” Phishes Credit Cards and Bank Accounts, Encrypts Devices for Ransom"
+1a7esd,How I Hacked Any Facebook Account...Again! | Nir Goldshlager Web Application Security Blog
+b4vso,xkcd: Devotion to Duty
+87gc8q,From hacked client to 0day discovery (actively exploited in the wild for years)
+80qf9b,"Bettercap 2.0, One Tool to Rule Them All."
+6v728a,Writeup on how I solved that Danish Intelligence CrackMe that was posted a while ago with Radare2 and Custom plugins.
+6il9nq,The OpenVPN post-audit bug bonanza
+1vuzm4,TCP backdoor 32764 or how we could patch the Internet (or part of it ;))
+1ty8x4,30C3: On Hacking MicroSD Cards
+lozr8,Killing wirelessly: Lethal medical device hack taken to next level; Barnaby Jack has shown how attackers can hack an insulin pump wirelessly and instruct it to deliver a lethal dose without first knowing the device's ID number
+heca0,"AndroidOS caught using plaintext auth, 99% of its' userbase affected. Wtf google?"
+a52wmg,Study finds 5 out of 17 tested CAs underpinning web security are vulnerable to spoofed Domain Validation via IP fragmentation attack
+41znia,Deliberately hidden backdoor account in several AMX (HARMAN Professional) devices
+10n0wj,"Spammy security ""magazine"" Hakin9 publishes nonsensical/obscene NMAP guide without noticing it"
+4oklnz,Critical Vulnerability found in Democratic campaign donation platform affecting 3 million users -- Responsible Disclosure
+3da55x,HackingTeam IE 0day
+32oz48,Vulnerability in Youtube allowed moving comments from any video to another
+21dk1f,Full Disclosure Mailing List: A Fresh Start - Fyodor of Nmap and Seclists.org is rebooting fulldisclosure
+aon2b9,Major Security Breach Found in Hospital and Supermarket Refrigeration Systems
+7yy668,"utorrent: various JSON-RPC issues resulting in remote code execution, information disclosure, etc."
+4gtj9v,Slack bot token leakage exposing business critical information
+1qjokm,Proposal for HTTP 2.0 would mandate HTTPS for all connections
+1o6o0d,"Steam UAC bypass via code execution (be nicer to whitehats, Valve)"
+80ltvl,Very nice & thorough Guide to using YubiKey as a SmartCard for GPG and SSH
+6xij7y,Safari Accidentally Treating ';' as an Assignment Operator
+56ma20,Reversing the Smarter Coffee IoT Machine Protocol to Make Coffee Using the Terminal.
+15ydem,"Inception is a tool for using firewire to compromise computers with full-disk encryption: works on Win8, Win7, Mac, Ubuntu, Mint"
+mc6sk,Siri Man-in-the-Middle or Guess who forgot to verify the root CA?
+5dzqjd,"Windows Sysinternals - Sysmon v5.0 - with Registry object added/deleted/renamed/setted, File stream created"
+3c70ov,Bypassing iPad’s restrictions code with the Rubbery Ducky
+33kmyt,Ubuntu local privilege escalation posted to oss-security (still unpatched; includes PoC)
+3173nj,Open Crypto Audit Project Truecrypt - Phase 2
+2te5h8,The Internet of Gas Station Tank Gauges - thousands of tank gauges on open Internet
+1r20gy,"Targeted Internet Traffic Misdirection - Man-In-the-Middle BGP route hijacking has now moved from a theoretical concern to something that happens fairly regularly, and the potential for traffic interception is very real."
+1q97cp,Anatomy of a password disaster – Adobe’s giant-sized cryptographic blunder
+1l9l70,Getting Started in Information Security
+1gykek,Another HP Storage backdoor
+u7n84,Backdoor found in a US military China-made chip
+bct7ap,CVE-2019-8513: Command injection in macOS TimeMachine allows reliable local root privilege escalation exploit
+5ebe66,You get a UUID! You get a UUID! Everybody gets a UUID!
+1eouic,"Your login form posts to HTTPS, but you blew it when you loaded it over HTTP [Troy Hunt]"
+znqgm,The source of the UDID leak has been found: a magazine app publisher
+gbo8m,Microsoft Shuts off HTTPS in Hotmail for Over a Dozen Countries
+9yc7ab,Huge Repository For Active Directory Kill Chain Attack & Defense
+a28e36,Using google translator as a proxy to a reverse shell.
+9tjjta,"U.S. ISBN registry ran ""unauthorized code"" on its checkout page for nearly 6 months"
+8kqqwz,Awesome Mind Maps - Review Posters for a Ton of Infosec Topics (See Comment for List of Content)
+8jv6nf,"""I too like to live dangerously"", Accidentally Finding RCE in Signal Desktop via HTML Injection in Quoted Replies (CVE-2018-11101)"
+6zae6q,"Ahead of Touch IDs replacement, I took a close look at the security mechanisms employed to store a fingerprint on iOS."
+3ye1g8,"32c3 has started, here are the Livestreams"
+1xsvcx,Technical Details Behind a 400Gbps NTP Amplification DDoS Attack
+14pz53,"Any page loaded in IE can track your mouse movements, anywhere, any time"
+m7pri,Hacker group Telecomix is assembling a wiki of all the technology companies selling gear to repressive dictatorships. 
+6msdek,Authentication bypass on Uber’s Single Sign-On via subdomain takeover
+65cc5p,Verification of encryption parameters and existence of SSL/TLS layer by MySQL client is done *after* client successfully finish authentication.
+3xubpk,Reverse Engineering the Yik Yak Android App
+21ycrw,Cryptolocker … you little shit.
+1e91cu,Saudi Arabian telco asks Moxie to help them intercept social network traffic
+8e9ocv,Exploiting CVE-2018-1038 aka TotalMeltdown
+35z0va,United Airlines launches Bug Bounty Program. Earn miles for reporting bugs.
+19uh24,Most pay-for WiFi networks vulnerable to tunneling out via DNS requests
+7u8nhm,How we found the identity of military personnel using Strava and fake GPX tracks
+6qzr5t,Extract passwords from TeamViewer memory using Frida
+5n510q,Browser Autofill Profiles Can Be Abused for Phishing Attacks
+3v6gje,Critical Vulnerabilities in 3G/4G Modems or how to build Big Brother
+1kkvei,"User reports security bug to Facebook after user posts to Mark Zuckerberg's wall. They claim ""this is not a bug"" and fix the bug and refuse to pay the bounty"
+1h2sjd,"SSL: Intercepted today, decrypted tomorrow"
+1grt0s,How Browsers Store Your Passwords (and Why You Shouldn't Let Them)
+6kj22o,From a single instruction to the discovery of a kernel vulnerability
+4zgpgi,Keystroke Recognition Using WiFi Signals
+37qcwe,The Empire Strikes Back Apple – how your Mac firmware security is completely broken
+sq5e2,Pwning a Spammer's Keylogger - SpiderLabs Anterior
+abotcc,Sputnik — An Open Source Intelligence Browser Extension
+9zmx6p,AndroidProjectCreator: easily convert an APK to an Android Studio project to reverse engineer the application
+737z4f,The Apple of Your EFI: Mac Firmware Security Research
+71vbd1,Passwords Evolved: Authentication Guidance for the Modern Era
+3xmlbn,Another “critical” “VPN” “vulnerability” and why Port Fail is bullshit
+3fz6z6,BlackHat USA 2015 presentation slides/white papers - Day 1
+b3b3ek,Introduction to kerberos & kerberos-related attacks
+6f3lop,City-Wide IMSI-Catcher Detection - SeaGlass
+vamcq,"How I temporarily made $1,566.85 an hour with Google's vulnerability rewards program."
+a8l15t,The bleak picture of two-factor authentication adoption in the wild
+3dgwee,How the New York Times uses WebRTC to gather local/vpn ip addresses
+o0zx5,"New version of NMAP released — 51 new scripts, web 
+spidering, vulnerability library, and more!"
+49np22,BlackHat Europe 2015 videos
+3ddmh0,"Samy releases proxygambit, a more advanced ProxyHam"
+3ahwil,Stealing keys from PCs using a radio: cheap electromagnetic attacks on windowed exponentiation
+9ld8qn,BYOB (Build Your Own Botnet) v0.2 Released - Major Improvements & Bug Fixes
+8fw8oh,Infection Monkey - An Automated Pentest Tool
+44dca8,Hacking Microsoft SQL Server Without a Password
+3szwqz,"How Chinese Tinder clone [Tantan] screws you (sending passwords, personal information including location without encryption)"
+219cl3,Prezi Got Pwned: A Tale of Responsible Disclosure
+18sp6z,"Mandiant Exposes APT1 – One of China’s Cyber Espionage Units & Releases 3,000 Indicators"
+6dn6sn,Dirty COW and why lying is bad even if you are the Linux kernel (xpost from /r/lowlevel)
+698hoa,The Bondnet Army - a botnet of thousands of cryptocurrency miners unveiled
+4jbr9u,CVE-2016-4117: Flash Zero-Day Exploited in the Wild
+2rfvbj,Moonpig.com vulnerability - exposes customer data
+2df2i9,Reverse engineer fake Tor browser bundle Torbrowserbundle.org
+1hxuut,Obtaining The Primary Email Address Of Any Facebook User
+1fsuqm,"Hetzner technicians discovered a ""backdoor"" in one of our internal monitoring systems (Nagios)."
+a1jd5h,How to create the perfect anonymizing botnet by abusing UPnP features — and without any infection
+1m4dd7,In Light of Apple's Announcement to Ship Fingerprint Recognition in the iPhone 5S: How to fake fingerprints? [CCC 2004]
+iol7b,PuTTY v.0.61 released after over 4 years !
+d0ftje,Ouch. New Exim unauthenticated remote code execution vulnerability in TLS released today.
+8ifzho,SANS DFIR 2018 - Windows Forensics Cheatsheet - Finding Unknown Malware Step-by-Step
+7vru05,It’s Hard To Change The Keys To The Internet And It Involves Destroying HSM’s
+2wfiyl,Extracting the SuperFish certificate
+1lc109,OS X sudo password bypass (CVE-2013-1775)
+b2jhzc,Popular mouse Logitech M185 vulnerable to MouseJacking keystroke injections attack
+65mwn6,Golang SSH Security
+5f0869,Azure bug bounty - Pwning Red Hat Enterprise Linux
+4btpv1,On the Impending Crypto Monoculture: DJB's ciphers vs everyone else's.
+45akrc,Statistics based password cracking rules released for hashcat
+1unso7,Emerging BitCoin Theft Campaign Uncovered
+1mco2q,We scanned the Internet for port 22
+a9ews9,Configuring DNS-over-TLS and DNS-over-HTTPS with any DNS Server
+4m8dzh,Bait and Switch: The Failure of Facebook Advertising - An OSINT Investigation
+2sa872,SPARTA: A Python GUI for Infrastructure Pen Testing
+bre6ft,"On February 1 2020, DNS servers that don’t support DNS both over UDP and TCP may stop working"
+9oy84h,Interactive example of how Facebook leaked 50M access tokens
+7lpmai,CVE-2017-7344 Fortinet FortiClient Windows privilege escalation at logon
+1m52qg,Why you should not trust emails sent from Google
+197j07,Bypassing Google’s Two-Factor Authentication
+b3p9kk,CarbonCopy: A tool which creates a spoofed certificate of any online website and signs an Executable for AV Evasion
+8gow6l,"Shhlack, message encryption for Slack"
+6otd2s,From PayPal Server's Unrestricted File Upload to RCE
+4w3tnr,HEIST: HTTP Encrypted Information can be Stolen through TCP-windows
+a8tqdl,Bachelor Thesis & Open Source Framework: Implementation and evaluation of secure and scalable anomaly-based network intrusion detection
+8pjehp,The Seven Properties of Highly Secure Devices - Microsoft Research
+7rrjdv,Mobile Devices Compromised by Fake Secure Messaging Clients
+77t3l5,Performing and Preventing SSL Stripping: A Plain-English Primer
+6pb4j5,Bright City: A Highly Insecure Police and Municipal Government App
+6j1pfx,Obtaining publish access to 13% of npm packages
+1va904,TrueCrypt Master Key Extraction And Volume Identification
+1py1pz,DEF CON 19 Presentations are now on YouTube
+1lyxxr,Quark : A Web Browser with a Formally Verified Kernel
+i6ac2,Here's the video of my brief appearance on BloombergTV to discuss all the recent 'hacks'
+7d549i,What happens when you try to guess the type of a void pointer (CVE-2017-16379)
+71epov,CCleaner update from Talos - Looking at the C2
+6xsu27,Step by Step Guide to Automating Web Apps Input fuzzing via Burp Macros
+3e7yan,"I wrote a detailed HowTo on ""Privacy & Security Conscious Browsing"" and am looking for feedback"
+24w5l7,Attempted vote gaming on /r/netsec
+1pcnkj,The Keys to the Kingdom: Public keys that share prime factors are surprisingly common.
+u2168,Blizzard intentionally makes passwords non-case sensitive
+91p7rf,GhostPack: a collection of new offensive security C# tools
+7brp2y,The art of iOS and iCloud forensics
+7adsso,Curve25519 and Curve448 to be approved by NIST for FIPS 140 use
+6mcbp7,Upgrading shells to fully interactive TTYs
+3j6w6f,"KeyRaider: iOS Malware Steals Over 225,000 Apple Accounts to Create Free App Utopia"
+av1mlu,Thunderclap: Modern computers are vulnerable to malicious peripheral devices
+8ga2j0,"[Basics] Understanding LM, NTLM, and their Network counterparts - Because so many people, still don't get the difference."
+71ax32,Evidence Aurora Operation Still Active: Supply Chain Attack Through CCleaner
+3bvaqe,Chrome address spoofing vulnerability proof-of-concept for HTTPS
+23orq0,LibreSSL: OpenBSD's fork from OpenSSL
+1vmx8c,Attackers call in bomb threat to distract Linode as part of yet another server compromise
+be5f1r,Subdomain Takeover: Microsoft loses control over Windows Tiles - Golem.de
+9d8mm6,MEGA Chrome Extension Hacked - Detailed Timeline of Events - SerHack security engineer
+93ibl8,Attacking the attackers: Execute code on the attacker's c&c
+91abf3,Vulnerability in Hangouts Chat a.k.a. how Electron makes open redirect great again
